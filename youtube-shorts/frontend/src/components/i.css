@@ -1,0 +1,11 @@
+.visible-button {
+    display: inline-block; /* Ensures the button is displayed as an inline-block element */
+    padding: 16px 16px; /* Adds padding for better visual appearance */
+    background-color: #007bff; /* Sets background color */
+    color: #ffffff; /* Sets text color */
+    border: none; /* Removes default button border */
+    border-radius: 50%; /* Adds rounded corners */
+    cursor: pointer; 
+    /* Changes cursor to pointer on hover */
+  }
+  
